@@ -1,0 +1,80 @@
+<style>
+            body {
+                background-color:lightBlue; 
+                color: white;
+                border-radius:10px;
+                margin-top:7px;
+                margin-left:3px;
+                margin-right:3px;
+            }
+            h1 {
+                Background-color:azure;
+                font-family:Doto Sans;
+                color:blue;
+                font-size:40px;
+                border-radius:20px;
+                margin-top:7px;
+                margin-left:3px;
+                margin-right:3px;
+                border:solid 4px lightBlue;
+                text-align:center;
+            }
+            p {
+                Background-color:azure;
+                font-family:Google Sans;
+                color:blue;
+                border-radius:10px;
+                margin-top:7px;
+                margin-left:3px;
+                margin-right:3px;
+                text-align:center;
+            }
+            button {
+                font-family:Google Sans;
+                color:blue;
+                background-color:darkBlue;
+                border-radius:10px;
+                margin-top:7px;
+                margin-left:3px;
+                margin-right:3px;
+                border:solid 3px lightBlue;
+                text-align:center;
+            }
+            img {
+                border-radius:10px;
+                margin-top:7px;
+                margin-left:3px;
+                margin-right:3px;
+                text-align:center;
+            }
+            div {
+                border-radius:10px;
+                margin-top:7px;
+                margin-left:3px;
+                margin-right:3px;
+                background-color:darkBlue;
+            }   
+            html {
+                background-color:skyBlue;
+            }
+            .Books {
+                font-size:40px;
+                font-family:Google Sans;
+                border-color:red;
+                border-radius:17px;
+                margin-top:7px;
+                margin-left:3px;
+                margin-right:3px;
+                background-color:purple;
+            }
+            .sub {
+                font-size:30px;
+                text-align:center;
+                font-family:Papyrus;
+                border-radius:15px;
+                margin-top:7px;
+                margin-left:3px;
+                margin-right:3px;
+            }
+              
+</style>
