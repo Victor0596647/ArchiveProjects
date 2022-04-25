@@ -1,0 +1,52 @@
+body {
+     background-image: url("../Pictures/pexels-photo-844297.jpg");
+     background-size: cover;
+     justify-content: center;
+     align-items: center;
+     background-size: cover;
+}
+.sign-up-box {
+     -moz-webkit-box-shadow: 33px 31px 16px 0px rgba(0,0,0,0.33); 
+     box-shadow: 33px 31px 16px 0px rgba(0,0,0,0.33);
+     border: solid 2px black;
+     text-align: center;
+     background-color: #ececec;
+     width:450px;
+     height: fit-content;
+     margin:auto;
+     font-family: Google Sans;
+     transition: ease 0.20s;
+}
+.sign-up-box:hover {
+     -webkit-box-shadow: 8px 8px 16px 0px rgba(0,0,0,0.48); 
+     box-shadow: 8px 8px 16px 0px rgba(0,0,0,0.48);
+     transition: ease 0.20s;
+}
+input {
+    border-radius:2px;
+    border:solid 3px black;
+    font-family:Google Sans;
+    font-size:20px;
+    margin-bottom:15px;
+    text-align:center;
+}
+select {
+    border-radius:2px;
+    border:solid 3px black;
+    font-family:Google Sans;
+    font-size:20px;
+    margin-bottom:15px;
+    text-align:center;
+}
+button {
+     border-radius:2px;
+    border:solid 3px black;
+    font-family:Google Sans;
+    font-size:20px;
+    margin-bottom:15px;
+    text-align:center;
+}
+#insert {
+     color: red;
+     margin-top: -10px;
+}

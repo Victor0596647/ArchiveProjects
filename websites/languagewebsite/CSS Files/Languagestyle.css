@@ -1,1 +1,71 @@
-
+h1 {
+    background-color: black;
+    font-family: Calibri;
+    text-align: center;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: 10px;
+    color: white;
+    font-weight: bold;
+}
+button {
+    background-color:white;
+    border:solid 4px azure;
+    border-radius:2px;
+    margin-left:0;
+    margin-right:0;
+}
+p {
+    font-family:Calibri;
+    font-size:15px;
+}
+input {
+    border-radius:2px;
+    border:solid 3px black;
+    font-family:Calibri;
+    font-size:20px;
+    margin-bottom:15px;
+    text-align:center;
+}
+.copy {
+    Background-color:black;
+    color:white;
+    font-family:Calibri;
+    border-radius:4px;
+    border:solid 4px black;
+    margin-top:3px;
+}
+footer {
+      background:#31b7f5;
+      color:black;
+      font-family:Calibri;
+      margin-left:-9px;
+      margin-right:-9px;
+      text-align:center;
+}
+.Email {
+      margin-bottom:-3px;
+}
+.Bottom {
+      background-color:black;
+      color:White;
+      font-weight:bold;
+      margin-bottom:-7px;
+      margin-top:-20px;
+      height:77px;
+}
+Body {
+      background-color:#3dd90d;
+}
+.pad {
+      padding-bottom:50px;
+}
+.color {
+      background-color:#0ff58d;
+      margin-top:-15px;
+}
+.Video {
+      background-image:url('file:///home/chronos/u-bd1e19317e0ef2222a73e7a8c6719e2950436567/MyFiles/Downloads/wesley-tingey-9-OCsKoyQlk-unsplash.jpg;');
+      text-align:center;
+}
